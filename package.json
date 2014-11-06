@@ -1,0 +1,30 @@
+{
+  "name": "karma-behave-preprocessor",
+  "version": "1.0.0",
+  "description": "A Karma preprocessor plugin, which downloads Gherkin features from Behave Pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vectart/karma-behave-preprocessor.git"
+  },
+  "keywords": [
+    "karma",
+    "behave",
+    "pro",
+    "behavepro",
+    "cucumber",
+    "gherkin",
+    "karma-plugin",
+    "karma-preprocessor",
+    "behave"
+  ],
+  "author": "Marat Dyatko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vectart/karma-behave-preprocessor/issues"
+  },
+  "homepage": "https://github.com/vectart/karma-behave-preprocessor"
+}
