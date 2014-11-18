@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/vectart/karma-behave-preprocessor/issues"
   },
-  "homepage": "https://github.com/vectart/karma-behave-preprocessor"
+  "homepage": "https://github.com/vectart/karma-behave-preprocessor",
+  "dependencies": {
+    "behave-pro-js": "git+https://github.com/vectart/behave-pro-js.git"
+  }
 }
